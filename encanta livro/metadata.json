@@ -1,6 +1,0 @@
-{
-  "name": "Encanta Livro",
-  "description": "Crie histórias infantis personalizadas e mágicas em um livro único e inesquecível.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
